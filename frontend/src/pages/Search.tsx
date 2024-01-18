@@ -290,7 +290,7 @@ const Search = () => {
             <option value="pricePerNightAsc">
               Price Per Night (low to high)
             </option>
-            <option value="pricePerNightDesc">
+            <option value="pricePerNightDsc">
               Price Per Night (high to low)
             </option>
           </select>
